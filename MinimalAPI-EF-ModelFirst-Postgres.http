@@ -1,0 +1,6 @@
+@MinimalAPI_EF_ModelFirst_Postgres_HostAddress = http://localhost:5214
+
+GET {{MinimalAPI_EF_ModelFirst_Postgres_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
